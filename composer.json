@@ -1,0 +1,12 @@
+{
+    "name": "mykolabreslavskyi/inliner",
+    "authors": [
+        {
+            "name": "kolyabres",
+            "email": "kolyabres@gmail.com"
+        }
+    ],
+    "require": {
+        "pelago/emogrifier": "^6.0"
+    }
+}
